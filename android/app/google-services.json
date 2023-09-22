@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591913108305",
+    "project_id": "appfissausers",
+    "storage_bucket": "appfissausers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591913108305:android:b99ff727274e4f89f74970",
+        "android_client_info": {
+          "package_name": "com.example.app_fisa3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591913108305-6nfnncllivuq80jhbuc340tsu001ch3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP38qSUUiLlLj17mMxuseiTtGB0-2jiNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591913108305-6nfnncllivuq80jhbuc340tsu001ch3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
